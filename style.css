@@ -52,7 +52,7 @@ body{
 a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
-	color: #343a3f;
+	color: #000;
 	font-size:16px;
 	padding:0;
     font-weight: 500;
@@ -60,14 +60,14 @@ a,a:hover,a:active,a:focus {
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-	color:#343a3f;
+	color:#010101;
     font-size: 18px;
     font-weight: 500;
     text-transform: capitalize;
 }
 p {
 	margin: 0;
-	color:#767f86;
+	color:#000000;
 	font-size:14px;
     line-height: 1.8;
     text-transform: initial;
