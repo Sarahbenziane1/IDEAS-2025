@@ -1,4 +1,5 @@
 /*==================================
+/*==================================
 * Author        : "ThemeSine"
 * Template Name : Listrace  HTML Template
 * Version       : 1.0
@@ -735,7 +736,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .single-blog-item-txt h2 a {text-transform:  initial;line-height: 1.8;}
 .single-blog-item-txt h4 {
     font-size:  14px;
-    color:  #8f949d;
+    color:  #010000;
     font-weight:  400;
     margin: 12px 0 20px;
 }
