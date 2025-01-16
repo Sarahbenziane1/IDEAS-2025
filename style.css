@@ -748,7 +748,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     text-transform: uppercase;
 }
 
-.single-blog-item:hover h2 a {color:#ff545a;}
+.single-blog-item:hover h2 a {color:#2525BB;}
 .single-blog-item:hover{
     box-shadow: 0 10px 20px rgba(21,19,19,.4);
 }
